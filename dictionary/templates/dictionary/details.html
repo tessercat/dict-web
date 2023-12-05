@@ -1,0 +1,6 @@
+        <details>
+          <summary title="{{ entry.pinyin }}">{{ entry.char }}</summary>
+          {% autoescape off %}
+          {{ entry.html_defs }}
+          {% endautoescape %}
+        </details>

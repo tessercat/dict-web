@@ -1,0 +1,6 @@
+Django
+uvicorn
+markdown
+flake8
+pylint
+pylint-django
